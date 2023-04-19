@@ -1,0 +1,17 @@
+h1 {
+   color: chocolate; 
+   text-align: center;
+}
+h2 {
+    color: aqua;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+h3 {
+    color: rgb(55, 55, 146);
+    background-color: azure;
+}
+h4 {
+    color: orchid;
+    font-weight: 300;
+    font-style: italic;
+}
